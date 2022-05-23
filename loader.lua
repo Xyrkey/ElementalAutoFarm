@@ -1,4 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyrkey/ElementalAwaken/main/InfRangeAndInstaSkill/loader.lua"))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/elemental_awakening/main/level_farm'),true))()
     wait()
 spawn(function()
     wait()
