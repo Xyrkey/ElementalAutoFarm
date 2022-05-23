@@ -1,4 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyrkey/ElementalAwaken/main/InfRangeAndInstaSkill/loader.lua"))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/elemental_awakening/main/curse_auto_grab'),true))()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/elemental_awakening/main/level_farm'),true))()
 while true do
     wait()
